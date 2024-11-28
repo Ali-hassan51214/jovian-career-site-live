@@ -163,7 +163,7 @@ file {
 
 .form-group input[type="submit"] {
     background-color: ghostwhite;
-    color: white;
+    color: #3b82f6;
     padding: 16px;
     cursor: pointer;
 }
