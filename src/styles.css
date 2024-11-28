@@ -142,7 +142,7 @@ file {
 }
 
 .footer {
-    background-color: #3b82f6;
+    background-color: ghostwhite;
     margin-top: 32px;
     padding: 8px;
     text-align: center;
@@ -162,7 +162,7 @@ file {
 }
 
 .form-group input[type="submit"] {
-    background-color: #3b82f6;
+    background-color: ghostwhite;
     color: white;
     padding: 16px;
     cursor: pointer;
